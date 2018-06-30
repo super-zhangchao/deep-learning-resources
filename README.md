@@ -15,9 +15,11 @@
 http://deeplearning.cs.cmu.edu/
  11-485/785 Introduction to Deep Learning
  
-*Practical Deep Learning for Coders 2018 
- http://www.fast.ai/2018/01/26/v2-launch/
+* Practical Deep Learning for Coders 2018 
+  * http://www.fast.ai/2018/01/26/v2-launch/
 *CSC 321 Winter 2018
- http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/
+  *http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/
 *送AI专栏｜深度学习必备的5大知识模块（内附知识卡片）
- https://weibo.com/ttarticle/p/show?id=2309404205968161402269
+  *https://weibo.com/ttarticle/p/show?id=2309404205968161402269
+*我从吴恩达深度学习课程中学到的21个心得
+  *https://baijiahao.baidu.com/s?id=1586104798515731117&wfr=spider&for=pc
