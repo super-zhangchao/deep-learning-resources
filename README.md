@@ -10,3 +10,14 @@
 
 * 《卷积神经网络的卷积核大小、卷积层数、每层map个数都是如何确定下来的呢？ - 知乎》
   * https://www.zhihu.com/question/38098038
+
+
+http://deeplearning.cs.cmu.edu/
+ 11-485/785 Introduction to Deep Learning
+ 
+*Practical Deep Learning for Coders 2018 
+ http://www.fast.ai/2018/01/26/v2-launch/
+*CSC 321 Winter 2018
+ http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/
+*送AI专栏｜深度学习必备的5大知识模块（内附知识卡片）
+ https://weibo.com/ttarticle/p/show?id=2309404205968161402269
