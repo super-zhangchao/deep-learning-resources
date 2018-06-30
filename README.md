@@ -22,7 +22,11 @@ http://deeplearning.cs.cmu.edu/
   * http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/
 * 送AI专栏｜深度学习必备的5大知识模块（内附知识卡片）
   * https://weibo.com/ttarticle/p/show?id=2309404205968161402269
-* 我从吴恩达深度学习课程中学到的21个心得
-  * https://baijiahao.baidu.com/s?id=1586104798515731117&wfr=spider&for=pc
+* 吴恩达深度学习课程
+  * 我从吴恩达深度学习课程中学到的21个心得
+    * https://baijiahao.baidu.com/s?id=1586104798515731117&wfr=spider&for=pc
 * Microsoft Professional Program for Artificial Intelligence
   * https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
+
+* 变分自编码器
+  * 一篇文章告诉你「变分自编码器 (VAE)」的优秀 https://mp.weixin.qq.com/s/3NoOQYPeIusNe7aXa7pZhA
